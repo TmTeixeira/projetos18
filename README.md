@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.prysmian.com/sites/www.prysmian.com/files/2024-01/internet-banner.png" alt="img internet" width="500">
+  <img src="https://www.prysmian.com/sites/www.prysmian.com/files/2024-01/internet-banner.png" alt="img internet" width="1000" height="300px">
 </h1>
 
 
