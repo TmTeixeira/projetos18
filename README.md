@@ -69,7 +69,7 @@ Em nosso arquivo, temos as seguintes colunas:
 </ul>
 
 
-<font face="courrier"><h3>Autores do Projeto:</h3></font>
+<font face="courrier"><h3>Autoras do Projeto:</h3></font>
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101891674?v=4" width=115><br>](https://github.com/TmTeixeira) <a href="https://www.linkedin.com/in/analistatammyteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/171205733?v=4" width=115><br>](https://github.com/veronica-toledo-bm) <a href="https://www.linkedin.com/in/veronica-toledo-bm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 | :---: | :---: | 
