@@ -25,9 +25,9 @@
 <p>Para realizar essa análise, utilizamos as seguintes ferramentas:</p>
 
 <ul>
-    <li>Pandas: Biblioteca Python amplamente utilizada para análise de dados, que nos permite ler e manipular arquivos XLSX (Excel), além de transformar e limpar os dados conforme necessário.</li>
-    <li>Google Colab: Plataforma para criação de notebooks, facilitando a análise colaborativa dos dados.</li>
-    <li>Tableau: Utilizado para criar dashboards e gráficos apresentados na análise.</li>
+    <li><img align="center" alt="Pandas" height="25" width="35" src="https://logowik.com/content/uploads/images/panda3013.logowik.com.webp">Pandas: Biblioteca Python amplamente utilizada para análise de dados, que nos permite ler e manipular arquivos XLSX (Excel), além de transformar e limpar os dados conforme necessário.</li>
+    <li><img align="center" alt="Colab" height="30" width="30" src="https://i.namu.wiki/i/zKS7LsOc2A4ZZR64XnAm8S88HbszoXQPH_T7CY3KFwfwJtemXQwc4Nu3tx5GavmyG-wmgcKs_PfqYbY8xg3iow.webp"> Google Colab: Plataforma para criação de notebooks, facilitando a análise colaborativa dos dados.</li>
+    <li><img align="center" alt="Tableau" height="20" width="25" src="https://wallpapers.com/images/hd/tableau-software-logo-design-th525w75z77ccxc9.png">  Tableau: Utilizado para criar dashboards e gráficos apresentados na análise.</li>
 </ul>
 
  <p>O Pandas é uma biblioteca do Python muito utilizada para análise de dados. Com ele podemos ler nossos dados, que é um arquivo XLSX (Excel), e começar a manipular, transformar e limpar, caso necessário. 
