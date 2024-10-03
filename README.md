@@ -71,13 +71,11 @@ Em nosso arquivo, temos as seguintes colunas:
 
 <font face="courrier"><h3>Autores do Projeto:</h3></font>
 
-<ul>
-<li><a href="https://www.linkedin.com/in/analistatammyteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </li>
-<li><a href="https://www.linkedin.com/in/veronica-toledo-bm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
-</ul>
-
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101891674?v=4" width=115><br><sub>Tammy Teixeira</sub>](https://github.com/TmTeixeira) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/171205733?v=4" width=115><br><sub>Veronica Toledo</sub>](https://github.com/veronica-toledo-bm)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101891674?v=4" width=115><br>](https://github.com/TmTeixeira) <a href="https://www.linkedin.com/in/analistatammyteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/171205733?v=4" width=115><br>](https://github.com/veronica-toledo-bm) <a href="https://www.linkedin.com/in/veronica-toledo-bm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 | :---: | :---: | 
+
+
+ 
 
 <p align="center">
 Desenvolvido com :purple_heart:  
