@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="internet-banner.jpg" alt="img internet" width="500">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS323RvbXb_ygwhX-BavjQuFJFUfUkgxClqt65RBwG0z8cBV43qkafvXHdp0A&s" alt="img internet" width="500">
 </h1>
 
 
